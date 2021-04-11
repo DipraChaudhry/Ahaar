@@ -1,10 +1,10 @@
 # Ahaar
 Food for poor app
 
-Problem
+Problem : 
 Food Wastage is a major problem in India .A significant amount of food is thrown by restaurants and eateries every single day. It is estimated that 40% of the food produced in India is wasted every year. It is all the more shocking as a lot of people in our country do not even get two square meals a day.
 
-Solution
+Solution : 
 In order to tackle this problem we are developing a website called ahaar using which restaurants can donate food to NGOs which then take charge of distributing it amongst the poor. For this , the restaurants and NGO both have to register on our site.Then the NGO can locate nearby restaurants willing to donate. The website would also have a volunteer section wherein people can register themselves and volunteer in food collection and distribution.
 
 
