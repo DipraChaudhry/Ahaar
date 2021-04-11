@@ -1,5 +1,5 @@
 # Ahaar
-Food for poor app was build by Digislayers as a part of SheHacks DTU 2021 conducted by Climb DTU/ 
+Food for poor app was build by Digislayers as a part of SheHacks DTU 2021 conducted by Climb DTU.
 
 Problem : 
 Food Wastage is a major problem in India .A significant amount of food is thrown by restaurants and eateries every single day. It is estimated that 40% of the food produced in India is wasted every year. It is all the more shocking as a lot of people in our country do not even get two square meals a day.
